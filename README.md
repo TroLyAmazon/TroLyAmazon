@@ -20,9 +20,6 @@ I learn a little bit of everything to satisfy my passion, the code is awesome an
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/TroLyAmazon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -42,10 +39,7 @@ I learn a little bit of everything to satisfy my passion, the code is awesome an
 <b>Thống kê GitHub của tôi</b>
 
 <a href="http://www.github.com/TroLyAmazon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TroLyAmazon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/TroLyAmazon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TroLyAmazon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Biểu đồ cam kết GitHub" alt="Biểu đồ cam kết GitHub" /></a>
-
-<a href="https://github.com/TroLyAmazon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroLyAmazon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Ngôn ngữ hàng đầu" alt="Ngôn ngữ hàng đầu" /></a>                    </p>
+              </p>
                     
                   ### Socials
                   

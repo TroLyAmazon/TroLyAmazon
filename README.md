@@ -72,19 +72,21 @@ Code is awesome – and I want to immerse myself in it as much as I can.
 ### Badges
 
 **My GitHub Stats**
-
-<p align="left">
-
-<a href="https://github.com/TroLyAmazon">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="160" alt="GitHub Stats" />
-</a>
+<div style="display: flex; gap: 10px;">
 
 <a href="https://github.com/TroLyAmazon">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&langs_count=10&theme=react&hide_border=true" alt="Top Languages" />
+  <img 
+       src="https://github-readme-stats-one-bice.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
+       height="160"
+       alt="GitHub Stats" />
 </a>
 
-
-
+<a href="https://github.com/TroLyAmazon">
+  <img 
+       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&theme=react&hide_border=true"
+       height="160"
+       alt="Top Languages" />
 </a>
 
-</p>
+</div>
+

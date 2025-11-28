@@ -80,14 +80,9 @@ Coding isn’t just work — it’s the place I enjoy learning, breaking, fixing
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://github.com/TroLyAmazon">
-  <img src="https://github-readme-stats.vercel.app/api?username=TroLyAmazon&show_icons=true&hide=prs,issues,contribs&bg_color=1c1917&text_color=ffffff&title_color=0891b2&icon_color=0891b2&hide_border=true"/>
-</a>
-
-<a href="https://github.com/TroLyAmazon">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1917&text_color=ffffff&title_color=0891b2&icon_color=0891b2&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=8&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" height="160"/>
 </p>
 
 ---

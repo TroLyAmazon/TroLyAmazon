@@ -73,12 +73,9 @@ Coding is where I feel alive — building, breaking, fixing, improving, and divi
 
 ## 🏆 My GitHub Stats
 
-> ⚠️ *Nếu bảng thống kê không hiển thị, đó là lỗi từ máy chủ dịch vụ Stats – không phải lỗi README.*
+<a href="https://github.com/TroLyAmazon">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="160"/>
+</a>
 
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160"/>
 
 </p>

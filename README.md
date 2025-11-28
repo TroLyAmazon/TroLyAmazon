@@ -80,11 +80,9 @@ Code is awesome – and I want to immerse myself in it as much as I can.
 </a>
 
 <a href="https://github.com/TroLyAmazon">
-  <img 
-       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&theme=react&hide_border=true"
-       style="width: 100%; max-width: 600px;"
-       alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&langs_count=10&theme=react&hide_border=true" alt="Top Languages" />
 </a>
+
 
 
 </a>

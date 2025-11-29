@@ -81,7 +81,7 @@ Code is awesome – and I want to immerse myself in it as much as I can.
   />
 
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=20&theme=react&hide_border=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&theme=react&hide_border=true"
     style="width: 48%; min-width: 300px;"
     alt="Top Languages"
   />

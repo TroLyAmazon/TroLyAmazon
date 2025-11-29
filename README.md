@@ -11,7 +11,7 @@ Code is awesome – and I want to immerse myself in it as much as I can.
 - ✉️ You can contact me at **congdongamazon@gmail.com**
 - 🧠 I'm currently in college and always learning new things
 - 🤝 I'm open to collaborating on projects that can give me a lot of experience
-- ⚡ I love working with any language ❤
+- ⚡ I love working with any language ❤❤❤
 
 ---
 

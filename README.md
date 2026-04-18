@@ -73,17 +73,14 @@ Code is awesome – and I want to immerse myself in it as much as I can.
 
 **My GitHub Stats**
 <div style="display: flex; gap: 13px;">
-
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api?username=TroLyAmazon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
     style="width: 48%; min-width: 300px;"
     alt="GitHub Stats"
   />
-
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TroLyAmazon&layout=compact&langs_count=10&theme=react&hide_border=true"
     style="width: 48%; min-width: 300px;"
     alt="Top Languages"
   />
-
 </div>
